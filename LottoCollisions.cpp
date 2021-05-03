@@ -4,7 +4,7 @@
     Might take some time.
 
     This program selects shuffled numbers from highly random positions
-    to simulate a drawn objects from a mechanical device.
+    to simulate drawn objects from a mechanical device.
 
     Testing will demonstrate that 1,2,3,4,5,6 or any other pattern-based
     draw is as likely to occur as any other combination of numbers.
