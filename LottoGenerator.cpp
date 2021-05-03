@@ -4,7 +4,7 @@
     small sets of draws (~10,000).
 
     This program selects shuffled numbers from highly random positions
-    to simulate a drawn object from a mechanical device.
+    to simulate a drawn objects from a mechanical device.
 
     In a lottery, distinct, abstract objects are chosen, not numbers.
     A lottery number is an object's identification. Therefore, examining
