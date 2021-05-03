@@ -93,9 +93,8 @@ int main() {
             collisionFound = testCollision(drawTest, drawResult);
 
             if(collisionFound == 1) {
-                for (int i = 0; i < DRAWNUMS; i++) {
+                for (int i = 0; i < DRAWNUMS; i++)
                     cout << drawResult[i] << " ";
-                }
                 cout << "at " << collisionTries << " draws." << endl;
             }
 
