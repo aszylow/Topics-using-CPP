@@ -1,4 +1,4 @@
-// Lottery draw generator.
+//  Lottery draw generator.
 
 #include <iostream>
 #include <random>
