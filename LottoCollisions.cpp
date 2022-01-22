@@ -1,21 +1,4 @@
-/*  High quality collision tester for lottery draws.
-
-    Will output number of draws taken to reach a collision.
-    Might take some time.
-
-    This program selects shuffled numbers from highly random positions
-    to simulate drawn objects from a mechanical device.
-
-    Testing will demonstrate that 1,2,3,4,5,6 or any other pattern-based
-    draw is as likely to occur as any other combination of numbers.
-
-    In a lottery, distinct, abstract objects are chosen, not numbers.
-    A lottery number is an object's identification. Therefore, examining
-    order, intervals, primality, evenness, oddness, or any other numeric
-    patterns and properties is a waste of time.
-
-    Default 6-49 draw, but can be modified to many other lotteries.
-*/
+//  Collision tester for lottery draws.
 
 #include <iostream>
 #include <random>
